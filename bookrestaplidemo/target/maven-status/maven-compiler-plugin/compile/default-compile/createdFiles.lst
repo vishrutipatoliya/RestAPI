@@ -1,0 +1,8 @@
+com/book/bookrestaplidemo/contoller/BookController.class
+com/book/bookrestaplidemo/entitie/Author.class
+com/book/bookrestaplidemo/entitie/Book.class
+com/book/bookrestaplidemo/service/BookSevice.class
+com/book/bookrestaplidemo/contoller/FileUploadController.class
+com/book/bookrestaplidemo/repository/BookRepo.class
+com/book/bookrestaplidemo/config/SwaggerConfiguration.class
+com/book/bookrestaplidemo/BookrestaplidemoApplication.class
